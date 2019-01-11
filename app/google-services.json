@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "709437112186",
+    "firebase_url": "https://newsism-5bfef.firebaseio.com",
+    "project_id": "newsism-5bfef",
+    "storage_bucket": "newsism-5bfef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709437112186:android:4089e229f36c2212",
+        "android_client_info": {
+          "package_name": "com.example.dell.newsism"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "709437112186-9usb7063v6k9d0lek752d9pgnb1uf83v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dell.newsism",
+            "certificate_hash": "2b79659fc2743141c89a1e29d5148f62568bf106"
+          }
+        },
+        {
+          "client_id": "709437112186-sdgbujfgukrh0makpgiimro4sai8nmee.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA06BCzWqHED70aX8uSQhCcwz3-ESTG1_4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "709437112186-sdgbujfgukrh0makpgiimro4sai8nmee.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
